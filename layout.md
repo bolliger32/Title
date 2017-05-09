@@ -2,6 +2,7 @@ untitled.html
 figures/tuolumneLocation/tuolumneLocation.png
 1048f.html
 17d68.html
+figures/snowoff_rasters/snowoff_rasters.png
 eaa5.html
 797eq2oe61o.html
 14eb2.html
