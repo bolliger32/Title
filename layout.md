@@ -6,6 +6,8 @@ figures/snowoff_rasters1/snowoff_rasters1.png
 eaa5.html
 797eq2oe61o.html
 14eb2.html
+425f.tex
+3ef9.html
 m9q3g71g1s.html
 cc92.html
 b51a.html
